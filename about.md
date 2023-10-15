@@ -3,4 +3,5 @@ layout: page
 title: About
 ---
 
-Something about me.
+WIP 
+Burned Bit
